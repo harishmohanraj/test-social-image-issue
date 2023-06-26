@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://harishmohanraj.github.io/test-social-image-issue/</loc>
+         <lastmod>2023-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harishmohanraj.github.io/test-social-image-issue/00_core/</loc>
+         <lastmod>2023-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harishmohanraj.github.io/test-social-image-issue/changelog_not_found/</loc>
+         <lastmod>2023-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harishmohanraj.github.io/test-social-image-issue/cli_commands_not_found/</loc>
+         <lastmod>2023-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harishmohanraj.github.io/test-social-image-issue/api/test_social_image_issue/core/foo/</loc>
+         <lastmod>2023-06-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>

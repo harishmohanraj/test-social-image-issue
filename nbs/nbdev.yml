@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-social-image-issue"
+  site-url: "https://harishmohanraj.github.io/test-social-image-issue"
+  description: "test-social-image-issue"
+  repo-branch: main
+  repo-url: "https://github.com/harishmohanraj/test-social-image-issue"
